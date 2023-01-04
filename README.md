@@ -1,2 +1,2 @@
-# vue_note
-vue_note
+# vue-note
+vue-note
